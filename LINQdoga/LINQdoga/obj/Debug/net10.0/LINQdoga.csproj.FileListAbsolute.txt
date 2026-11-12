@@ -1,0 +1,16 @@
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\bin\Debug\net10.0\LINQdoga.exe
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\bin\Debug\net10.0\LINQdoga.deps.json
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\bin\Debug\net10.0\LINQdoga.runtimeconfig.json
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\bin\Debug\net10.0\LINQdoga.dll
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\bin\Debug\net10.0\LINQdoga.pdb
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.AssemblyInfoInputs.cache
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.AssemblyInfo.cs
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.csproj.CoreCompileInputs.cache
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.sourcelink.json
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.dll
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\refint\LINQdoga.dll
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.pdb
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.genruntimeconfig.cache
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\ref\LINQdoga.dll
+C:\Users\csoti.csaba\Documents\GitHub\LINQ_DOGA20261102\LINQdoga\LINQdoga\obj\Debug\net10.0\LINQdoga.csproj.Up2Date

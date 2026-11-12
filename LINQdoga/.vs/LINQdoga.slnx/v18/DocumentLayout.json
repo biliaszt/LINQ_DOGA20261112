@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|c:\\users\\csoti.csaba\\documents\\github\\linq_doga20261102\\linqdoga\\linqdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|solutionrelative:linqdoga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|c:\\users\\csoti.csaba\\documents\\github\\linq_doga20261102\\linqdoga\\linqdoga\\videojatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|solutionrelative:linqdoga\\videojatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|c:\\users\\csoti.csaba\\documents\\github\\linq_doga20261102\\linqdoga\\linqdoga\\data\\videogames.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49126B98-811B-475B-8AEF-412F15FB56E5}|LINQdoga\\LINQdoga.csproj|solutionrelative:linqdoga\\data\\videogames.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "videogames.csv",
+              "DocumentMoniker": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\data\\videogames.csv",
+              "RelativeDocumentMoniker": "LINQdoga\\data\\videogames.csv",
+              "ToolTip": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\data\\videogames.csv",
+              "RelativeToolTip": "LINQdoga\\data\\videogames.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-11-12T07:17:07.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Videojatek.cs",
+              "DocumentMoniker": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\Videojatek.cs",
+              "RelativeDocumentMoniker": "LINQdoga\\Videojatek.cs",
+              "ToolTip": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\Videojatek.cs",
+              "RelativeToolTip": "LINQdoga\\Videojatek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:10:15.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\Program.cs",
+              "RelativeDocumentMoniker": "LINQdoga\\Program.cs",
+              "ToolTip": "C:\\Users\\csoti.csaba\\Documents\\GitHub\\LINQ_DOGA20261102\\LINQdoga\\LINQdoga\\Program.cs",
+              "RelativeToolTip": "LINQdoga\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:06:42.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
